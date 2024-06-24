@@ -1,0 +1,2 @@
+__label__positive I love this movie
+__label__negative I hate this movie

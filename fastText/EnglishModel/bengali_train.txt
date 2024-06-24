@@ -1,0 +1,11 @@
+__label__positive আমি এই সিনেমাটি ভালোবাসি
+__label__negative আমি এই সিনেমাটি ঘৃণা করি
+__label__positive এই গানটি খুব সুন্দর
+__label__negative এই গানটি খুব বাজে
+__label__positive আজকের দিনটি খুব ভালো
+__label__negative আজকের দিনটি খুব খারাপ
+__label__positive এই বইটি আমার প্রিয়
+__label__negative এই বইটি আমার একদম পছন্দ না
+__label__positive এই বইটি আমার পছন্দ
+__label__positive এই খাবারটি খুব সুস্বাদু
+__label__negative এই খাবারটি একেবারেই ভালো না
